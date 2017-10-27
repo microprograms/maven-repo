@@ -10,6 +10,12 @@
       <description>maven-archetype-microapi</description>
     </archetype>
     <archetype>
+      <groupId>com.github.microprograms</groupId>
+      <artifactId>maven-archetype-microapi-archetype</artifactId>
+      <version>1.0.2</version>
+      <description>maven-archetype-microapi</description>
+    </archetype>
+    <archetype>
       <groupId>org.apache.maven.archetypes</groupId>
       <artifactId>maven-archetype-j2ee-simple</artifactId>
       <version>1.0</version>
