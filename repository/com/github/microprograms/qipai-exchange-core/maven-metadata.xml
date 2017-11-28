@@ -3,7 +3,7 @@
   <groupId>com.github.microprograms</groupId>
   <artifactId>qipai-exchange-core</artifactId>
   <versioning>
-    <release>1.0.11</release>
+    <release>1.0.12</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -16,7 +16,8 @@
       <version>1.0.9</version>
       <version>1.0.10</version>
       <version>1.0.11</version>
+      <version>1.0.12</version>
     </versions>
-    <lastUpdated>20171127103809</lastUpdated>
+    <lastUpdated>20171128074455</lastUpdated>
   </versioning>
 </metadata>
