@@ -3,14 +3,16 @@
   <groupId>com.github.microprograms</groupId>
   <artifactId>micro-http-server-runtime</artifactId>
   <versioning>
-    <release>1.0.3</release>
+    <release>1.0.5</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
       <version>1.0.2</version>
       <version>1.0.2.debug1</version>
       <version>1.0.3</version>
+      <version>1.0.4</version>
+      <version>1.0.5</version>
     </versions>
-    <lastUpdated>20171226015442</lastUpdated>
+    <lastUpdated>20171226054844</lastUpdated>
   </versioning>
 </metadata>
