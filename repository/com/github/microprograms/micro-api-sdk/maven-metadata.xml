@@ -3,7 +3,7 @@
   <groupId>com.github.microprograms</groupId>
   <artifactId>micro-api-sdk</artifactId>
   <versioning>
-    <release>1.0.6.r2</release>
+    <release>1.0.7.test</release>
     <versions>
       <version>1.0.3</version>
       <version>1.0.3.r1</version>
@@ -26,7 +26,8 @@
       <version>1.0.6</version>
       <version>1.0.6.r1</version>
       <version>1.0.6.r2</version>
+      <version>1.0.7.test</version>
     </versions>
-    <lastUpdated>20171229093913</lastUpdated>
+    <lastUpdated>20171231071751</lastUpdated>
   </versioning>
 </metadata>
