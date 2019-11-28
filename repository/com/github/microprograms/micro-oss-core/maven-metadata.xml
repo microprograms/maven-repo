@@ -3,7 +3,7 @@
   <groupId>com.github.microprograms</groupId>
   <artifactId>micro-oss-core</artifactId>
   <versioning>
-    <release>4.0.0</release>
+    <release>5.0.0</release>
     <versions>
       <version>1.0.0</version>
       <version>1.1.0</version>
@@ -33,7 +33,8 @@
       <version>3.9.0</version>
       <version>3.10.0</version>
       <version>4.0.0</version>
+      <version>5.0.0</version>
     </versions>
-    <lastUpdated>20191127081008</lastUpdated>
+    <lastUpdated>20191128040422</lastUpdated>
   </versioning>
 </metadata>
